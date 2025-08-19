@@ -6,7 +6,7 @@
 
 ### Installation
 
-For the latest development version from PyPI (published automatically on pushes to develop):
+For the latest release version from PyPI (published automatically on pushes to develop):
 
 ``` shell
 pip install jcb
